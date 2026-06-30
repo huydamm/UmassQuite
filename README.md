@@ -14,11 +14,9 @@ Every student knows the pain: you trek to the library, climb to the "quiet floor
 
 ## Screenshots
 
-<!-- Drop screenshots/GIFs here, e.g.:
-![Map view](docs/map.png)
-![Quiet rankings](docs/rankings.png)
--->
-_Coming soon — add screenshots of the map and rankings here._
+![UMass Study Map — live quiet-spot map of campus](docs/map.png)
+
+The live map at [umassquiet.vercel.app](https://umassquiet.vercel.app): filter spots by Quiet / Moderate / Busy, search by name, and see the whole campus color-coded by how quiet it is right now.
 
 ## How it works
 
