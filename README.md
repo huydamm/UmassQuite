@@ -12,7 +12,7 @@ Every student knows the pain: you trek to the library, climb to the "quiet floor
 - 🏆 **Rankings** — see the quietest spots on campus right now, or filter by hour of day to find where it's calm at 9pm vs. noon.
 - 🔮 **It predicts the future** — a machine-learning model forecasts how quiet a spot *will* be an hour from now, so you can plan ahead instead of guessing.
 
-## Screenshots
+## First Look
 
 ![UMass Study Map — live quiet-spot map of campus](docs/map.png)
 
