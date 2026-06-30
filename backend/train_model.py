@@ -45,9 +45,10 @@ def main():
     mae = mean_absolute_error(y_test, preds)
     print(f"MAE on test set: {mae:.2f} quiet score points")
 
-    joblib.dump(model, "model.pkl")
-    joblib.dump(le, "label_encoder.pkl")
-    print("Saved model.pkl and label_encoder.pkl")
+    # Names must match what main.py loads
+    joblib.dump(model, "model_new.pkl")
+    joblib.dump(le, "label_encoder_new.pkl")
+    print("Saved model_new.pkl and label_encoder_new.pkl")
 
 if __name__ == "__main__":
     main()
