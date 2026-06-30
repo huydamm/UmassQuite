@@ -12,6 +12,14 @@ Every student knows the pain: you trek to the library, climb to the "quiet floor
 - 🏆 **Rankings** — see the quietest spots on campus right now, or filter by hour of day to find where it's calm at 9pm vs. noon.
 - 🔮 **It predicts the future** — a machine-learning model forecasts how quiet a spot *will* be an hour from now, so you can plan ahead instead of guessing.
 
+## Screenshots
+
+<!-- Drop screenshots/GIFs here, e.g.:
+![Map view](docs/map.png)
+![Quiet rankings](docs/rankings.png)
+-->
+_Coming soon — add screenshots of the map and rankings here._
+
 ## How it works
 
 The backend is a **FastAPI** service backed by **PostgreSQL**. Students submit reports (`noise_level`, `occupancy_estimate`) for a location, and the API turns the recent history into a quiet score:
